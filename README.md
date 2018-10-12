@@ -1,2 +1,3 @@
 # Indecision
-Decision making app built with React. Production web server built with Express.
+* Decision making app built with React. 
+* Production web server built with Express.
